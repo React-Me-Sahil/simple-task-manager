@@ -1,0 +1,5 @@
+Project is based on learning Purpose..
+--- Feature ---
+1. concept use localstorage
+2. if reload old data always show
+3.
